@@ -3,8 +3,6 @@
  * sorting bubble sort
  * display each loop
  * easy but inefficient
- * CaolanCode
- * July, 25, 2022
  */
 
 #include <stdio.h>

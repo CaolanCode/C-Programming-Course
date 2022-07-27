@@ -1,7 +1,5 @@
 /*
  * use of simple arrays as parameters
- * CaolanCode
- * July, 25, 2022
  */
 
 #include <stdio.h>

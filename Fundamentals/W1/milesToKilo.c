@@ -1,8 +1,6 @@
 /*
  * Convert miles and yards to kilometres
  * km = yd / 1093.6
- * CaolanCode
- * July, 23, 2022
  */
 
 #include <stdio.h>

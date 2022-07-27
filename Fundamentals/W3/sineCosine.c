@@ -1,7 +1,5 @@
 /*
  * Function that prints a table of values for sine and cosine between (0,1)
- * CaolanCode
- * July, 24, 2022
  */
 
 #include <stdio.h>

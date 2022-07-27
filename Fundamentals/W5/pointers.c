@@ -1,7 +1,5 @@
 /*
  * use of pointers
- * CaolanCode
- * July, 24, 2022
  */
 
 #include <stdio.h>

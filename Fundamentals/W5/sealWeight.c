@@ -1,7 +1,5 @@
 /*
  * test to read contents of a file into an array and get the average
- * CaolanCode
- * July, 26, 2022
  */
 
 #include <stdio.h>

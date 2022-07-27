@@ -1,7 +1,5 @@
 /* 
  * demonstrate loop with for statement
- * CaolanCode
- * July, 23, 2022
  */
 
 #include <stdio.h>

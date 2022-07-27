@@ -1,6 +1,5 @@
 /*
  * Peer review test
- * July, 23, 2022
  */
 
 #include <stdio.h>

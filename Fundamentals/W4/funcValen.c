@@ -1,7 +1,5 @@
 /*
  * Function for valentine loop
- * CaolanCode
- * July, 25, 2022
  */
 
 #include <stdio.h>

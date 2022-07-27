@@ -1,6 +1,4 @@
 /* Expression Evaluation
- * CaolanCode
- * July, 23, 2022
  */
 
 #include <stdio.h>

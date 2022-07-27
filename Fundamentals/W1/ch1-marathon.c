@@ -1,7 +1,5 @@
 /*
  * The distance of a marathon in kilometres
- * CaolanCode
- * July, 23, 2022
  */
 
 #include <stdio.h>

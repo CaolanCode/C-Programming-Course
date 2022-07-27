@@ -1,7 +1,6 @@
 /*
  * Recursive vs Iterative Factorial
  * simple recursion
- * CaolanCode
  * n! = 1 * 2 * 3 * .. * n
  */
 

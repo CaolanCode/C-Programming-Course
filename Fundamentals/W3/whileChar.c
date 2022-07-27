@@ -1,7 +1,5 @@
 /*
  * Check characters in file
- * CaolanCode
- * July, 24, 2022
  */
 
 #include <stdio.h>

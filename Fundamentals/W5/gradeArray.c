@@ -1,7 +1,5 @@
 /*
  * Use of simple arrays
- * CaolanCode
- * July, 25, 2022
  */
 
 #include <stdio.h>

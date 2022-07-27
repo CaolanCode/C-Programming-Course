@@ -1,7 +1,5 @@
 /*
  * Storage Class
- * CaolanCode
- * July, 25, 2022
  * Not useful code
  */
 

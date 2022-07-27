@@ -1,7 +1,5 @@
 /*
  * Logical operators and short circuit evaluation
- * CaolanCode
- * July, 24, 2022
  */
 
 #include <stdio.h>

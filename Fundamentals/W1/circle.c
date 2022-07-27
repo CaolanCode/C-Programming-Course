@@ -1,7 +1,5 @@
 /* 
  * Circle and Area
- * CaolanCode
- * July, 23, 2022
  */
 // input output library
 #include <stdio.h>

@@ -1,6 +1,4 @@
 /* Read in Three Floats and Print Sum
- * CaolanCode
- * July, 23, 2022 
  */
 
 #include <stdio.h>

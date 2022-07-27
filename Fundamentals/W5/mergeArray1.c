@@ -1,8 +1,6 @@
 /*
  * Sorting Merge Sort
  * O(n log n) efficient
- * CaolanCode
- * July, 25, 2022
  */
 
 #include <stdio.h>

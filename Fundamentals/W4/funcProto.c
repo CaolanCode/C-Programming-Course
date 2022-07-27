@@ -1,8 +1,6 @@
 /*
  * tables of squares and cubes
  * function prototypes
- * CaolanCode
- * July, 25, 2022
  */
 
 #include <stdio.h>

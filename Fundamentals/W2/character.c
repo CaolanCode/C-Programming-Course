@@ -1,8 +1,6 @@
 /*
  * Char in C
  * A Fundamental Type
- * CaolanCode
- * July, 23, 2022
  */
 
 #include <stdio.h>

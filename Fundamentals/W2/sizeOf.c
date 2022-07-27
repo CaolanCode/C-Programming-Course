@@ -1,7 +1,5 @@
 /*
  * Fundamental Types sizeof operator
- * CaolanCode
- * July, 23, 2022
  */
 
 #include <stdio.h>

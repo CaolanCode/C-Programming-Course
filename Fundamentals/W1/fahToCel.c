@@ -1,8 +1,6 @@
 /*
  * Conversion of Fahrenheit to Celsius
  * C = (F - 32)/1.8
- * CaolanCode
- * July, 23, 2022
  */
 
 # include <stdio.h>
